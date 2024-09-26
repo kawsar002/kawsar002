@@ -1,6 +1,8 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Kawsar Hossain</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h3 align="center">Passionate Web Developer</h3>
+<div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ3bXBxYzN2dnIxeWRzNzNscHgyMm9jbmRqZDhiMThuYnhpc3d6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Kawsar Hossain" "/></div>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar002&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar002" /> </p>
